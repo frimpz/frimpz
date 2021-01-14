@@ -31,7 +31,7 @@ Frimpong Boadu
 
 <p>
   
-- **Technology Stack:** Python[Django, Machine Learning], C/C++, PHP[Laravel].
+- **Technology Stack:** Python[Django, Machine Learning], C/C++, PHP[Laravel], Java, Scala.
 
 
 </p>
