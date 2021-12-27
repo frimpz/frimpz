@@ -12,33 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=frimpz&show_icons=true&theme=radical"  width=100%
-  height=auto />
-<br>
-<br>
-</a>
 
+#### And Stats:
+
+| <a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=frimpz&show_icons=true&theme=radical" alt="Eugene's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frimpz&layout=compact&hide_border=true&theme=radical" /></a> |
+| ------------- | ------------- |
+
+![Profile views](https://gpvc.arturio.dev/frimpz)  
 
 ### Bio
 
 <p> Frimpong Boadu </p>
 
-### Languages and Tools
-
-<p> 
-  
-  - **Technology Stack:** Python[Django, Machine Learning], C/C++, PHP[Laravel], Java, Scala. 
-</p>
-
 
 <p>
+  
 ### Connect with me:
 
-
-[<img align="left" alt="frimpz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="frimpz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="frimpz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="frimpz | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="frimpz | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="frimpz | Instagram" width="20x" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/frimpongboadu1
 [instagram]: https://www.instagram.com/frimpongboadu/
