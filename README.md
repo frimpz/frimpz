@@ -18,29 +18,27 @@ Here are some ideas to get you started:
 | <a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=frimpz&show_icons=true&theme=radical" alt="Eugene's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frimpz&layout=compact&hide_border=true&theme=radical" /></a> |
 | ------------- | ------------- |
 
-![Profile views](https://gpvc.arturio.dev/frimpz)  
 
-### Bio
+
+<!--### Bio
 
 <p> Frimpong Boadu </p>
 
 
-<p>
+<p>-->
   
 ### Connect with me:
 
 [<img align="left" alt="frimpz | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="frimpz | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="frimpz | Instagram" width="20x" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Profile views](https://gpvc.arturio.dev/frimpz)
 
 [twitter]: https://twitter.com/frimpongboadu1
 [instagram]: https://www.instagram.com/frimpongboadu/
 [linkedin]: https://www.linkedin.com/in/frimpong-boadu/
   
-  
 </p>
-
-<br/> <br/>
   
 <p>
 
@@ -50,8 +48,4 @@ Here are some ideas to get you started:
     <li><a href="#">Link 1</a></li>
     <li><a href="#">Link 2</a></li>
    </ul>
-
-   
-#### 
-
 </p>
