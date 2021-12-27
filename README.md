@@ -22,22 +22,17 @@ Here are some ideas to get you started:
 
 ### Bio
 
-<p>
-Frimpong Boadu 
-
-</p>
+<p> Frimpong Boadu </p>
 
 ### Languages and Tools
 
-<p>
+<p> 
   
-- **Technology Stack:** Python[Django, Machine Learning], C/C++, PHP[Laravel], Java, Scala.
-
-
+  - **Technology Stack:** Python[Django, Machine Learning], C/C++, PHP[Laravel], Java, Scala. 
 </p>
 
 
-
+<p>
 ### Connect with me:
 
 
@@ -45,27 +40,25 @@ Frimpong Boadu
 [<img align="left" alt="frimpz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="frimpz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-
 [twitter]: https://twitter.com/frimpongboadu1
 [instagram]: https://www.instagram.com/frimpongboadu/
 [linkedin]: https://www.linkedin.com/in/frimpong-boadu/
+  
+  
+</p>
 
+<br/> <br/>
+  
+<p>
 
-# Hyper
+### Quick Links
+#### Baylor Codes
+   <ul>
+    <li><a href="#">Link 1</a></li>
+    <li><a href="#">Link 2</a></li>
+   </ul>
 
-Hyper is my dtudies on hyperparameter tunning from Jason Brownlee
-How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras
+   
+#### 
 
-
-## TODO
-#### How to use Keras models in scikit-learn.
-#### How to use grid search in scikit-learn.
-#### How to tune batch size and training epochs.
-#### How to tune optimization algorithms.
-#### How to tune learning rate and momentum.
-#### How to tune network weight initialization.
-#### How to tune activation functions.
-#### How to tune dropout regularization.
-#### How to tune the number of neurons in the hidden layer.
-
+</p>
